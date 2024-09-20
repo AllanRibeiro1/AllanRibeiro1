@@ -1,4 +1,4 @@
-## Oi eu sou a Allan Igor, Programação, Linux e Robótica desde 2010. 
+## Oi eu sou a Allan Igor, Cibersegurança Linux e Robótica desde 2010. 
 Tec. Automotiva Tec. Informática Tec. Mecatrônica
 Tecnologia desde 1994 quando nasci!
 
