@@ -1,6 +1,5 @@
 ## Oi eu sou a Allan Igor, Cibersegurança Linux e Robótica desde 2010. 
-Tec. Automotiva Tec. Informática Tec. Mecatrônica
-Tecnologia desde 1994 quando nasci!
+Tec. Automotiva Tec. Informática Tec. Mecatrônica e amante da Tecnologia desde 1994, quando nasci!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
