@@ -1,5 +1,10 @@
-## Oi eu sou a Allan Igor, Cibersegurança Linux e Robótica desde 2010. 
-Tec. Automotiva Tec. Informática Tec. Mecatrônica e amante da Tecnologia desde 1994, quando nasci!
+## Engenharia Reversa Robô NAO v7 
+
+Este projeto visa a colaboração para Engenharia Reversa do Robô NAO v7, parte do Hackathon 
+promovido pelo CETEC e a Residência Tecnológica do Porto Digital do Recife com ajuda da EMPREL.
+Estudantes de várias instituições privadas do Projeto Embarque Digital foram convidados para um 
+Desafio de Integração do Robô NAO, robores empregados no ensino básico municipal há 10 anos, com 
+a Inteligência Artificial para auxiliar o desenvolvimento das Escolas da Rede Municipal do Recife.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
