@@ -3,6 +3,10 @@ Minha formação é  multidisclinar e inclui:
 Tec. Automotiva, Tec. Informática, Tec. Mecatrônica, e outros Cursos 
 que não terminei de Eng. Materiais, Atuariais, Economia, e Biomedicina. 
 
+Atualmente estudo Análise e Desenvolvimento de Sistemas bolsista do
+programa Embarque Digital no Centro Universitário Tiradentes - UNIT
+e Licenciatura em Física à distância na EADtec/UFRPE.
+
 
 
 <div style="display: inline_block"><br>
