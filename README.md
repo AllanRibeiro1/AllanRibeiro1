@@ -1,5 +1,5 @@
 ## Oi eu sou Allan Igor, Cibersegurança Linux e Robótica desde 2010.
-Minha formação é  multidisclinar e inclui:
+Minha formação é  multidiciplinar e inclui:
 Tec. Automotiva, Tec. Informática, Tec. Mecatrônica, e outros Cursos 
 que não terminei de Eng. Materiais, Atuariais, Economia, e Biomedicina. 
 
